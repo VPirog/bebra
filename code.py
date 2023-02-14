@@ -1,0 +1,1 @@
+print("fasfa", 23, True)
